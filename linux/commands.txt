@@ -1,0 +1,2 @@
+Linux is the foundation of Devops
+I am learning Devops
