@@ -1,4 +1,4 @@
 #!/bin/bash
-User:'whoami'
-Directory: 'pwd'
-Status: Learning DevOps
+echo User: $(whoami)
+echo Directory: $(pwd)
+echo Status: Learning DevOps
