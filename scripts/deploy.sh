@@ -1,5 +1,7 @@
 #!/bin/bash
 
+set -e
+
 echo "starting deployment..."
 
 SOURCE="$HOME/devops-lab/application/app.sh"
