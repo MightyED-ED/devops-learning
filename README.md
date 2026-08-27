@@ -50,3 +50,15 @@ My journey from IT Technician to DevOps Engineer.
 - `practice/`
 - `projects/`
 - `logs/`
+
+## Git Workflow
+
+This repository uses Git for version control.
+
+The basic workflow is:
+
+1. Make changes
+2. Check changes with git status and git diff
+3. Stage changes with git add
+4. Commit changes with git commit
+5. Push changes to GitHub
