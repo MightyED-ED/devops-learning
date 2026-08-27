@@ -6,7 +6,10 @@ echo "================================="
 
 echo ""
 echo "Checking repository..."
-git status
+git status --porcelain
+
+if [ -z "$(git status --procelain)" ]; then
+	echo "Changes have been found"
 
 echo ""
 echo "Changes detected:"
